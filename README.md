@@ -7,7 +7,7 @@
 
 2022년 12월 16일 ~ 2022년 12월 22일
 
-## 👯팀원
+## 🎄팀원
 
 - [오연주BE](https://github.com/OhYeonJu)(팀장)
 - [유종열BE](https://github.com/jongyeol2)
@@ -18,6 +18,7 @@
 - [양진규FE](https://github.com/jjolraman)
 
 ## 와이어프레임
+![술이술술](https://media.discordapp.net/attachments/1037267111585792020/1053338900812288010/83963AE8-9190-42BA-9656-592672551756.gif?width=856&height=504)
 
 ## 🛠️Tech Stacks
 
@@ -30,4 +31,6 @@
 
 [API설계](https://www.notion.so/SA-7-a638bed536bb4b7f9a92ad6b0fac8fa2#a68aa12d14e14e349be983b1c87ae9a8)
 
+## ✨Swagger설계
+![image](https://user-images.githubusercontent.com/55370369/208973058-995e03ac-c813-4032-a51f-66bf9406f511.png)
 
